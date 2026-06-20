@@ -5,8 +5,11 @@
         "dotenv",
         "groq",
         "Krish",
+        "langchain",
+        "langgraph",
         "Naik",
         "ollama",
+        "quickjs",
         "Qwen",
         "TAVILY"
     ]
